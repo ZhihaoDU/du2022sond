@@ -1,2 +1,2 @@
-# du2022sond
-Speaker overlap-aware Neural Diarization
+# Speaker overlap-aware Neural Diarization
+We will release codes here as soon as we achieve an internal grant.
