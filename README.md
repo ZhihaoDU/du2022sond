@@ -8,7 +8,7 @@ Hello, everybody, good news!!! After our efforts on internal code reviw,
 More fresh information can be found in these chat groups, join us!
 |Dingding group | Wechat group|
 |:---:|:---:|
-|<div align="left"><img src="docs/images/dingding.jpg" width="250"/> |<img src="docs/images/wechat.png" width="222"/></div>|
+|<div align="left"><img src="images/dingding.JPG" width="250"/> |<img src="images/wechat.JPG" width="222"/></div>|
 
 # Speaker overlap-aware Neural Diarization
 We will release codes here as soon as we achieve an internal grant.
