@@ -1,7 +1,7 @@
 # Recent Processes
 
 ### 2023.02.13
-The inference pipeline has been released in FunASR repository (https://github.com/alibaba-damo-academy/FunASR) including model structures and forward function. The training related codes are under developement.
+The inference pipeline has been released in FunASR repository (https://github.com/alibaba-damo-academy/FunASR) including model structures and forward function. And, the pre-trained model has been released at ModelScope (https://www.modelscope.cn/models/damo/speech_diarization_sond-zh-cn-alimeeting-16k-n16k4-pytorch/summary). The training related codes are under developement.
 You can read FunASR/egs/alimeeting/diarization/sond/README.md for more details.
 
 ### 2023.02.09
